@@ -1,0 +1,8 @@
+🔭 AstroCompute Optimal Observation Schedule
+Generated on: 2025-06-09 17:59
+
+Nebula Scan (12:00-14:00), Cloud: 11%, Mag: 0.000, Priority:4 → Score: 0.597
+Deep Sky Survey (18:00-21:00), Cloud: 26%, Mag: 0.000, Priority:5 → Score: 0.596
+Solar Flare Monitor (21:00-24:00), Cloud: 40%, Mag: 0.000, Priority:4 → Score: 0.479
+
+✨ Total Events Selected: 3
